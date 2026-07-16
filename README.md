@@ -1,6 +1,6 @@
 # Hey, I'm Lakshveer
 
-Embedded systems engineer in the making. I build things that talk to sensors and ship them over BLE.
+VLSI engineer in the making.
 
 Currently finishing up a B.Tech in Electronics Engineering (VLSI Design & Technology) at JIIT Noida, and just wrapped up an Embedded AI summer internship at STMicroelectronics.
 
