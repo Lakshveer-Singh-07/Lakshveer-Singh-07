@@ -9,7 +9,7 @@ Currently finishing up a B.Tech in Electronics Engineering (VLSI Design & Techno
 ## What I work with
 
 **Languages:** C, C++, Python  
-**Embedded:** STM32 HAL, STM32CubeIDE, BLE, IMU Sensors  
+**Embedded:** STM32 HAL, STM32CubeIDE, IMU Sensors  
 **ML/AI:** TensorFlow, Scikit-learn, XGBoost, SHAP, OpenCV
 
 Still early in my engineering journey, so the list is small — but I'm constantly picking up new things.
@@ -18,7 +18,7 @@ Still early in my engineering journey, so the list is small — but I'm constant
 
 ## Stuff I've built
 
-**GestoPilot** — Gesture-controlled presentation remote using STM32, IMU, and BLE. Built the whole thing — firmware with EMA filtering, annotation mode, and a Python config tool. The EMA dead-zone tuning took forever to get right.
+**GestoPilot** — Gesture-controlled presentation remote using STM32 and IMU. Built the whole thing — firmware with EMA filtering, annotation mode, and a Python config tool. The EMA dead-zone tuning took forever to get right.
 
 **IMU Sensor Calibration** — Accelerometer and magnetometer calibration pipeline using ST's MotionAC and MotionMC libraries. Raw sensor data in, calibrated data out. Python tooling for validation.
 
