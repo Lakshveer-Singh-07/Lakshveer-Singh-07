@@ -10,7 +10,7 @@ Currently in my first year of B.Tech in Electronics Engineering (VLSI Design & T
 
 **Languages:** C, C++, Python  
 **Embedded:** STM32 HAL, STM32CubeIDE, IMU Sensors  
-**ML/AI:** TensorFlow, Scikit-learn, XGBoost, SHAP, OpenCV
+**ML/AI:** TensorFlow, Scikit-learn, SHAP, OpenCV
 
 Still early in my engineering journey, so the list is small — but I'm constantly picking up new things.
 
