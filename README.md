@@ -2,7 +2,7 @@
 
 VLSI engineer in the making.
 
-Currently in my first year of B.Tech in Electronics Engineering (VLSI Design & Technology) at JIIT Noida, and just wrapped up an Embedded AI summer internship at STMicroelectronics.
+Currently in my first year of B.Tech in Electronics Engineering (VLSI Design & Technology) at JIIT Noida Sector 62, and just wrapped up an Embedded AI summer internship at STMicroelectronics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshveer-singh-90a1ab420/)
 
